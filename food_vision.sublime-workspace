@@ -1,0 +1,273 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"float",
+				"float32"
+			],
+			[
+				"foo",
+				"food_vision_big_efficient_net_b0_big_boi"
+			],
+			[
+				"get",
+				"get_classes"
+			],
+			[
+				"corr",
+				"correct_options"
+			],
+			[
+				"read",
+				"ready_image"
+			],
+			[
+				"mi",
+				"mixed_precision"
+			],
+			[
+				"read_",
+				"ready_image"
+			],
+			[
+				"pred",
+				"predicted_data"
+			],
+			[
+				"file",
+				"file_details"
+			],
+			[
+				"load",
+				"load_and_prepare_image"
+			],
+			[
+				"fil",
+				"file_uploader"
+			],
+			[
+				"food_vision_",
+				"food_vision_big_efficient_net_b0_big_boi.h5"
+			],
+			[
+				"ty",
+				"type="
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package COntrol: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"Open IPython Notebook"
+			],
+			[
+				"No",
+				"Open IPython Notebook"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Intsall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import numpy",
+			"get_classes()",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/vedsm/OneDrive/vedant_code/tensorflow-deep-learning/07-Food-Vision-Big-Milestone-1/food_vision_data_app.py",
+		"/Users/vedsm/OneDrive/vedant_code/tensorflow-deep-learning/07-Food-Vision-Big-Milestone-1/utils.py",
+		"/Users/vedsm/OneDrive/vedant_code/tensorflow-deep-learning/07-Food-Vision-Big-Milestone-1/app2.py",
+		"/Users/vedsm/OneDrive/vedant_code/tensorflow-deep-learning/07-Food-Vision-Big-Milestone-1/07_milestone_project_1_food_vision_big.ipynb",
+		"/Users/vedsm/opt/anaconda3/lib/python3.8/site-packages/streamlit/__init__.py",
+		"/Users/vedsm/Desktop/Boy Scouts/Communications/requirements.txt",
+		"/Users/vedsm/Desktop/Boy Scouts/Emergency Preparedness/requirements.txt",
+		"/Users/vedsm/OneDrive/vedant_code/projects/pytuner/tuner/tuner.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t",
+			"    ",
+			"img",
+			"class_df",
+			"bruh",
+			"mixed_precision",
+			"img_to_write"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"\t"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "food_vision.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
